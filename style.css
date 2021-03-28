@@ -1,0 +1,47 @@
+body {
+  background-color: black;
+    font-size: 15pt
+    
+    
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+  
+ 
+ 
+  
+}
+
+h1{
+  color: aqua;
+  text-align: center;
+}
+
+h2{
+  color: cornflowerblue;
+  text-align: center;
+}
+h3{
+  color: goldenrod;
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  color: white;
+  
+}
+
+footer{ text-align: center;
+  color: coral;
+}
+
+a{
+  font-size: 40px;
+  color: yellow;
+  text-align: center;
+}
