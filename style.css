@@ -12,7 +12,7 @@ body{
 
   
 
- 
+ font-size:5px;
 
 background: black;
 
@@ -40,6 +40,7 @@ padding:1000px
   margin:3px;
   margin-left:2px;
   margin-right:2px;
+  border-colour:skyblue;
  }
 
 
