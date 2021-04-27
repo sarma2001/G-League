@@ -1,7 +1,8 @@
 button {
     font-size: 20pt;
+    color:white;
     border-color:skyblue;
-     padding: 15px 32px;
+     padding: 30px 32px;
      border-radius: 10px;
      background-color: black;
      margin: 4px 2px;
