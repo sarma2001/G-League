@@ -1,0 +1,22 @@
+button1 {
+    font-size: 20pt;
+    
+     padding: 15px 32px;
+     border-radius: 10px;
+     background-color: black;
+     margin: 4px 2px;
+     margin-left: auto;
+     margin-right: auto;
+     display: inline-block;
+
+}
+button2{
+    font-size: 15pt;
+     padding: 15px 32px;
+     border-radius: 10px;
+     background-color: black;
+     margin: 4px 2px;
+     margin-left: auto;
+     margin-right: auto;
+     display: inline-block;
+}
